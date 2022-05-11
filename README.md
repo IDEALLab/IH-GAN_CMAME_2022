@@ -17,7 +17,7 @@ Wang, J., Chen, W., Da, D., Fuge, M., & Rai, R. (2021). IH-GAN: A Conditional Ge
 
 ## Dataset
 
-The dataset can be downloaded from [Google Drive](link by Jun). It involves the shape parameters and the effective material properties of ~900 unit cells. Please check the paper for detailed information on the dataset.
+The dataset can be found in the folder `data/`. It involves the shape parameters and the effective material properties of ~900 unit cells. Please check the paper for detailed information on the dataset.
 
 ![Alt text](data.png)
 
