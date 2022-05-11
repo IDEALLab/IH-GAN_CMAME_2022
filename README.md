@@ -23,7 +23,7 @@ The dataset can be found in the folder `data/`. It involves the shape parameters
 
 ## Code Usage
 
-1. (Jun) Run Matlab code `top3d_sdf_E_nu_dis.m` and `top3d_sdf_E_rho_nu_cmp.m` in folder `TO_opt/` to obtain the optimal material property distribution for the target deformation and compliance minimization problems. 
+1. Run Matlab code `top3d_sdf_E_nu_dis.m` and `top3d_sdf_E_rho_nu_cmp.m` in folder `TO_opt/` to obtain the optimal material property distribution for the target deformation and compliance minimization problems. 
 <!-- The optimal material properties will be saved at `opt/tgt_prp.mat`. -->
 
 2. Create a conda environment called `ihgan`:
