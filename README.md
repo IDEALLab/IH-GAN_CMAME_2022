@@ -31,10 +31,8 @@ The dataset can be found in the folder `data/`. It involves the shape parameters
    ```
    conda env create -f environment.yml
    ```
-   
-3. Download unit cell shape parameters and material properties data from [Google Drive](link by Jun). Create a folder `data` in the code directory and put the NPY files in the `data` folder.
 
-4. Train the IH-GAN model and generate unit cell shapes based on the optimal material properties:
+3. Train the IH-GAN model and generate unit cell shapes based on the optimal material properties:
 
    ```
    python gen_shape.py train
@@ -44,4 +42,4 @@ The dataset can be found in the folder `data/`. It involves the shape parameters
    
    The generated unit cell shape parameters will be saved at `opt/dvar_synth.npy` and `opt/dvar_synth.mat`.
    
-5. (Jun) The unit cell shapes can be assembled to form an optimized metamaterial system ...
+4. The unit cell shape parameters will then define the geomtries of a unit cell array, which can be assembled to form an optimized metamaterial system.
