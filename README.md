@@ -1,6 +1,8 @@
 # IH-GAN_CMAME_2022
 Data and code associated with our accepted CMAME 2022 paper: [IH-GAN: A Conditional Generative Model for Implicit Surface-Based Inverse Design of Cellular Structures](https://arxiv.org/pdf/2103.02588.pdf).
 
+Also see our paper and poster at ICML 2022 Workshop on Machine Learning in Computational Design [here](https://drive.google.com/drive/folders/1ZTo3-fOIBHGWAp6WwWkKhcdZCEfqq8V4?usp=sharing).
+
 ![Alt text](ihgan.png)
 
 ## License
