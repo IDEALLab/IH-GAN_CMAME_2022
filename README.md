@@ -1,21 +1,24 @@
 # IH-GAN_CMAME_2022
 Data and code associated with our accepted CMAME 2022 paper: [IH-GAN: A Conditional Generative Model for Implicit Surface-Based Inverse Design of Cellular Structures](https://arxiv.org/pdf/2103.02588.pdf).
 
-Also see our paper and poster at ICML 2022 Workshop on Machine Learning in Computational Design [here](https://drive.google.com/drive/folders/1ZTo3-fOIBHGWAp6WwWkKhcdZCEfqq8V4?usp=sharing).
+Also see our paper and poster at _ICML 2022 Workshop on Machine Learning in Computational Design_ [here](https://drive.google.com/drive/folders/1ZTo3-fOIBHGWAp6WwWkKhcdZCEfqq8V4?usp=sharing).
 
 ![Alt text](ihgan.png)
 
 ## License
 This code is licensed under the MIT license. Feel free to use all or portions for your research or related projects so long as you provide the following citation information:
 
-Wang, J., Chen, W., Da, D., Fuge, M., & Rai, R. (2021). IH-GAN: A Conditional Generative Model for Implicit Surface-Based Inverse Design of Cellular Structures. arXiv preprint arXiv:2103.02588.
+Wang, J., Chen, W. W., Da, D., Fuge, M., & Rai, R. (2022). IH-GAN: A conditional generative model for implicit surface-based inverse design of cellular structures. _Computer Methods in Applied Mechanics and Engineering_, 396, 115060.
 
-	@article{wang2021ih,
-      title={IH-GAN: A Conditional Generative Model for Implicit Surface-Based Inverse Design of Cellular Structures},
-      author={Wang, Jun and Chen, Wei and Da, Daicong and Fuge, Mark and Rai, Rahul},
-      journal={Computer Methods in Applied Mechanics and Engineering},
-      year={2022}
-    }
+	@article{wang2022ih,
+	  title={IH-GAN: A conditional generative model for implicit surface-based inverse design of cellular structures},
+	  author={Wang, Jun and Chen, Wei Wayne and Da, Daicong and Fuge, Mark and Rai, Rahul},
+	  journal={Computer Methods in Applied Mechanics and Engineering},
+	  volume={396},
+	  pages={115060},
+	  year={2022},
+	  publisher={Elsevier}
+	}
 
 ## Dataset
 
